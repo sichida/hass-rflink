@@ -1,0 +1,11 @@
+name: "RFLink Gateway"
+description: "Addon to manage communication using 433Mhz wave"
+version: "1.0.0"
+slug: "hass-rflink"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
